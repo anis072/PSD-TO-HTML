@@ -1,0 +1,71 @@
+.container{
+    margin: 0 auto;
+}
+
+.header-wrapper{
+    margin: 0 auto;
+}
+
+.upper-header{
+margin: 0 auto;
+}
+
+.logo-wrapper{
+    float: left;
+}
+
+.menubar-wrapper{
+    float: right;
+}
+
+.menubar-wrapper li{
+    float: left;
+}
+
+.slideshow-content{
+	margin: 0 auto;
+}
+
+.slideshow-content-container{
+	margin: 0 auto;	
+}
+
+.header-container{
+	margin: 0 auto;
+}
+
+features-description{
+	margin: 0 auto;
+}
+
+.counter-container{
+	margin: 0 auto;
+}
+
+.counters{
+	float: left;
+}
+
+.onlinesupport-container{
+	margin:0 auto;
+}
+
+.onlineSupport-desc-wrapper{
+	margin:0 auto;
+}
+
+.online-Support-desc{
+	float: left;
+}
+
+.contactUs-container{
+	margin:0 auto;
+}
+
+.contact-info{
+	float: left;
+}
+
+.contact-form{
+	float: right;
+}
